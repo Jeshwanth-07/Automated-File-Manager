@@ -24,6 +24,11 @@ How to Use:
 Why Use This?
 --> If your Downloads or any other folder gets cluttered often, this tool saves you time by managing file sorting for you automatically. It’s lightweight, customizable, and easy to run in the background.
 
+Notes:
+-->Currently supports common file extensions for audio, video, images, documents, applications, and archives.
+-->You can easily add more file types by updating the extension lists in the script.
+-->The script runs indefinitely until manually stopped (Ctrl+C).
+
 Possible Improvements:
 --> Add support for more file types and extensions.
 --> Implement a GUI for easier configuration.
